@@ -1,0 +1,46 @@
+.header {
+  /* border-bottom: 1px solid rgba(0, 0, 0, .05); */
+  box-shadow: 0 5px 5px rgba(0, 0, 0, .05);
+}
+
+.datos-titulos {
+  font-size: 0.7em;
+  font-weight: bold;
+  margin: 0;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+.datos-dato {
+  margin: 0;
+  font-size: 1.2em;
+  line-height: 1.1;
+}
+
+.header .col-1 {
+  margin: 0;
+  padding: 0;
+}
+
+.header .fas {
+  font-size: 1.5em;
+  color: green;
+}
+
+.navbar-brand {
+  line-height: 1;
+  font-weight: bold;
+}
+
+.navbar-brand span {
+  font-size: 0.7em;
+  font-weight: normal;
+}
+
+.borde {
+  border: 2px solid rgba(0, 0, 0, .3);
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  margin: 5px !important;
+}
